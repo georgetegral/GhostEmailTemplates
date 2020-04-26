@@ -4,7 +4,7 @@ module.exports = ({siteTitle, email, url}) => `
   <head>
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>🔑 Secure sign in link for ${siteTitle}</title>
+    <title>🔑 Liga segura de inicio de sesión para ${siteTitle}</title>
     <style>
     /* -------------------------------------
         RESPONSIVE AND MOBILE FRIENDLY STYLES
@@ -109,7 +109,7 @@ module.exports = ({siteTitle, email, url}) => `
                   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
                     <tr>
                       <td style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; vertical-align: top;">
-                        <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 20px; color: #15212A; font-weight: bold; line-height: 25px; margin: 0; margin-bottom: 15px;">Hey there,</p>
+                        <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 20px; color: #15212A; font-weight: bold; line-height: 25px; margin: 0; margin-bottom: 15px;">¡Hola!</p>
                         <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; color: #3A464C; font-weight: normal; margin: 0; line-height: 25px; margin-bottom: 32px;">¡Bienvenido de vuelta! Usa esta liga para entrar a tu cuenta de ${siteTitle}</p>
                         <table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; box-sizing: border-box;">
                           <tbody>
